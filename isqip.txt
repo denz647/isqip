@@ -1,0 +1,10 @@
+
+elif((a>5)and(a<21)anda=int(input())
+if(a%2!=0):
+    print("Weird")
+
+elif((a>1)and(a<6)and(a%2==0)):
+    print("Not Weird")(a%2==0)):
+    print("Weird")
+elif((a>20)and(a%2==0)):
+    print("Not Weird")
